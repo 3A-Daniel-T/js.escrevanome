@@ -1,1 +1,1 @@
-# js.escrevanome
+?p xmlns:cc-'http://creativecommons.org/ns'" ?a rel?"cc:attributionURL" href?"https://github.com/3A-Daniel-Ts/js.escrevanome/tree/main"-Este trabalho?/a? é marcado com ?a hrefchooser-v1" target"_blank" rel-"license noopener noreferrer" style?"display:inline-block;"cc0 1.0'img style-'height:22p!important;margin-left:3px;vertical-align:text-bottom;"src-htps://mirrors.creativecommons""img style?"height:22px!important;margin-left:3px;vertical-align:text-bottom;"src-https://mirrors.creativecommons.org/icons/zero.svg?ref-chooser-v1" alt?
